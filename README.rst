@@ -3,7 +3,7 @@
   :target: https://www.pygame.org/
 
 
-|AppVeyorBuild| |PyPiVersion| |PyPiLicense|
+|AppVeyorBuild| |PyPiLicense|
 |Python3| |GithubCommits| |BlackFormatBadge|
 
 Pygame_ is a free and open-source cross-platform library
